@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" total="9" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="322270" started-at="2020-06-07T18:33:15Z" finished-at="2020-06-07T18:38:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="322270" started-at="2020-06-07T18:33:15Z" finished-at="2020-06-07T18:38:37Z">
+      <class name="com.qa.hubspot.test.Lognpage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.test.Lognpage@cb5822]" name="setup" is-config="true" duration-ms="27930" started-at="2020-06-08T00:03:15Z" finished-at="2020-06-08T00:03:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLoginpagetitle()[pri:1, instance:com.qa.hubspot.test.Lognpage@cb5822]" name="verifyLoginpagetitle" duration-ms="9089" started-at="2020-06-08T00:03:43Z" finished-at="2020-06-08T00:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginpagetitle -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.hubspot.test.Lognpage@cb5822]" name="TearDown" is-config="true" duration-ms="1183" started-at="2020-06-08T00:03:52Z" finished-at="2020-06-08T00:03:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.test.Lognpage@cb5822]" name="setup" is-config="true" duration-ms="12500" started-at="2020-06-08T00:03:53Z" finished-at="2020-06-08T00:04:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifySignupLink()[pri:2, instance:com.qa.hubspot.test.Lognpage@cb5822]" name="VerifySignupLink" duration-ms="10258" started-at="2020-06-08T00:04:06Z" finished-at="2020-06-08T00:04:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySignupLink -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.hubspot.test.Lognpage@cb5822]" name="TearDown" is-config="true" duration-ms="763" started-at="2020-06-08T00:04:16Z" finished-at="2020-06-08T00:04:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.test.Lognpage@cb5822]" name="setup" is-config="true" duration-ms="12725" started-at="2020-06-08T00:04:17Z" finished-at="2020-06-08T00:04:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyFacebooklink()[pri:3, instance:com.qa.hubspot.test.Lognpage@cb5822]" name="verifyFacebooklink" duration-ms="7805" started-at="2020-06-08T00:04:29Z" finished-at="2020-06-08T00:04:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFacebooklink -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.hubspot.test.Lognpage@cb5822]" name="TearDown" is-config="true" duration-ms="832" started-at="2020-06-08T00:04:37Z" finished-at="2020-06-08T00:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.test.Lognpage@cb5822]" name="setup" is-config="true" duration-ms="12248" started-at="2020-06-08T00:04:38Z" finished-at="2020-06-08T00:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifySSOlinkinloginpage()[pri:4, instance:com.qa.hubspot.test.Lognpage@cb5822]" name="verifySSOlinkinloginpage" duration-ms="5938" started-at="2020-06-08T00:04:50Z" finished-at="2020-06-08T00:04:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySSOlinkinloginpage -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.hubspot.test.Lognpage@cb5822]" name="TearDown" is-config="true" duration-ms="774" started-at="2020-06-08T00:04:56Z" finished-at="2020-06-08T00:04:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.test.Lognpage@cb5822]" name="setup" is-config="true" duration-ms="12329" started-at="2020-06-08T00:04:57Z" finished-at="2020-06-08T00:05:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logintest()[pri:5, instance:com.qa.hubspot.test.Lognpage@cb5822]" name="logintest" duration-ms="32872" started-at="2020-06-08T00:05:09Z" finished-at="2020-06-08T00:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.hubspot.test.Lognpage@cb5822]" name="TearDown" is-config="true" duration-ms="812" started-at="2020-06-08T00:05:42Z" finished-at="2020-06-08T00:05:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.hubspot.test.Lognpage -->
+      <class name="com.qa.hubspot.test.HomepageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.test.HomepageTest@4b9e13df]" name="setup" is-config="true" duration-ms="32507" started-at="2020-06-08T00:05:43Z" finished-at="2020-06-08T00:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyhomepagetitletest()[pri:1, instance:com.qa.hubspot.test.HomepageTest@4b9e13df]" name="verifyhomepagetitletest" duration-ms="60" started-at="2020-06-08T00:06:16Z" finished-at="2020-06-08T00:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyhomepagetitletest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.hubspot.test.HomepageTest@4b9e13df]" name="TearDown" is-config="true" duration-ms="764" started-at="2020-06-08T00:06:16Z" finished-at="2020-06-08T00:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.test.HomepageTest@4b9e13df]" name="setup" is-config="true" duration-ms="34641" started-at="2020-06-08T00:06:16Z" finished-at="2020-06-08T00:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyheaderpage()[pri:2, instance:com.qa.hubspot.test.HomepageTest@4b9e13df]" name="verifyheaderpage" duration-ms="179" started-at="2020-06-08T00:06:51Z" finished-at="2020-06-08T00:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyheaderpage -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.hubspot.test.HomepageTest@4b9e13df]" name="TearDown" is-config="true" duration-ms="757" started-at="2020-06-08T00:06:51Z" finished-at="2020-06-08T00:06:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.test.HomepageTest@4b9e13df]" name="setup" is-config="true" duration-ms="35375" started-at="2020-06-08T00:06:52Z" finished-at="2020-06-08T00:07:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="verifyaccountnamehomepage()[pri:3, instance:com.qa.hubspot.test.HomepageTest@4b9e13df]" name="verifyaccountnamehomepage" duration-ms="127" started-at="2020-06-08T00:07:27Z" finished-at="2020-06-08T00:07:27Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='account-menu']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'DESKTOP-E239PRV', ip: '192.168.43.193', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:59149}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6f21ce017bc8617103d690124c65019e
+*** Element info: {Using=xpath, value=//a[@id='account-menu']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='account-menu']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'DESKTOP-E239PRV', ip: '192.168.43.193', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:59149}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6f21ce017bc8617103d690124c65019e
+*** Element info: {Using=xpath, value=//a[@id='account-menu']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at com.qa.hubspot.pages.Homepage.verifyaccountname(Homepage.java:62)
+	at com.qa.hubspot.test.HomepageTest.verifyaccountnamehomepage(HomepageTest.java:65)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:100)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:811)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1129)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:746)
+	at org.testng.TestRunner.run(TestRunner.java:600)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1264)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1189)
+	at org.testng.TestNG.runSuites(TestNG.java:1104)
+	at org.testng.TestNG.run(TestNG.java:1076)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:126)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:152)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:57)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaccountnamehomepage -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.hubspot.test.HomepageTest@4b9e13df]" name="TearDown" is-config="true" duration-ms="1242" started-at="2020-06-08T00:07:27Z" finished-at="2020-06-08T00:07:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.test.HomepageTest@4b9e13df]" name="setup" is-config="true" duration-ms="34429" started-at="2020-06-08T00:07:29Z" finished-at="2020-06-08T00:08:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="verifyclickhomebutton()[pri:4, instance:com.qa.hubspot.test.HomepageTest@4b9e13df]" name="verifyclickhomebutton" duration-ms="33250" started-at="2020-06-08T00:08:03Z" finished-at="2020-06-08T00:08:36Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Service Dashboard']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'DESKTOP-E239PRV', ip: '192.168.43.193', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:59221}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: dccf9a00dba91674fe343951f5d3e049
+*** Element info: {Using=xpath, value=//h1[text()='Service Dashboard']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Service Dashboard']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'DESKTOP-E239PRV', ip: '192.168.43.193', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:59221}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: dccf9a00dba91674fe343951f5d3e049
+*** Element info: {Using=xpath, value=//h1[text()='Service Dashboard']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at com.qa.hubspot.pages.Homepage.Clikhombtn(Homepage.java:53)
+	at com.qa.hubspot.test.HomepageTest.verifyclickhomebutton(HomepageTest.java:74)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:100)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:811)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1129)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:746)
+	at org.testng.TestRunner.run(TestRunner.java:600)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1264)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1189)
+	at org.testng.TestNG.runSuites(TestNG.java:1104)
+	at org.testng.TestNG.run(TestNG.java:1076)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:126)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:152)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:57)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyclickhomebutton -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.hubspot.test.HomepageTest@4b9e13df]" name="TearDown" is-config="true" duration-ms="763" started-at="2020-06-08T00:08:36Z" finished-at="2020-06-08T00:08:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.hubspot.test.HomepageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
