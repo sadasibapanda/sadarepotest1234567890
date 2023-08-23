@@ -6,6 +6,7 @@
       <class name="com.qa.hubspot.test.Lognpage">
         <methods>
           <include name="TearDown"/>
+          <include name="verifyFacebooklink"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.qa.hubspot.test.Lognpage -->
@@ -13,8 +14,10 @@
         <methods>
           <include name="TearDown"/>
           <include name="setup"/>
+          <include name="verifyhomepagetitletest"/>
           <include name="verifyaccountnamehomepage"/>
           <include name="verifyclickhomebutton"/>
+          <include name="verifyheaderpage"/>
         </methods>
       </class> <!-- com.qa.hubspot.test.HomepageTest -->
     </classes>

@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Suite">
+<suite name="Suite" parallel="tests" thread-count="2">
   <test name="Test">
+  <parameter name="Browser" value="chrome" />
     <classes>
-      <class name="com.qa.hubspot.test.Lognpage"/>
-      <class name="com.qa.hubspot.test.HomepageTest"/>
+      <class name="com.qa.hubspot.test.Cross"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test1">
+  <parameter name="Browser" value="FF" />
+    <classes>
+      <class name="com.qa.hubspot.test.Cross"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
